@@ -1,1 +1,1 @@
-This is an Alx project on shell input and output redirection 
+ This is a set of script that automates shell redirections
